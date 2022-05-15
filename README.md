@@ -1,2 +1,3 @@
-# arduino-parking-sensor
-Arduino Parking Sensor
+# Ardunio Parking Sensor
+
+Arduino Park Sensörü Tinkercad şeması ve kaynak kodları.
